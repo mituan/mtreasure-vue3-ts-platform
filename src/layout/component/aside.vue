@@ -1,5 +1,7 @@
 <template>
-    <div>
-        <el-aside width="200px">Aside</el-aside>
+    <div class="h100">
+        <el-aside class="layout-aside">
+            
+        </el-aside>
     </div>
 </template>
